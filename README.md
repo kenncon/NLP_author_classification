@@ -1,12 +1,14 @@
 The files in this github are:
+
 BERT_v2.ipynb
+
 reddit_data_raw.csv
+
 BERT_v2_small.ipynb
+
 reddit_data_raw_small.csv
-Baseline_models
--Naive Bayes Baseline bigram.ipynb
--Naive Bayes Baseline Tfidf.ipynb
--Naive Bayes Baseline unigram.ipynb
+
+
 
 BERT_v2.ipynb and reddit_data_raw.csv are the full model with optimally tuned hyperparameters and the full dataset respectively. Uploading the files that constitute the trained full model are too large for either github or dropbox, though are available on request through other means if necessary. Training the full model on your computer would likely take several hours, and is thus not recommended.
 
